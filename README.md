@@ -2,3 +2,6 @@
 
 #ASSIGMENT TASK1:https://github.com/Bonaganisaicharan/Aiml2024/blob/main/2203A51550_aiml1.ipynb
 
+
+
+#ASSIMGMENT WEEK2:https://github.com/Bonaganisaicharan/Aiml2024/blob/main/2203a51550aiml.pdf
