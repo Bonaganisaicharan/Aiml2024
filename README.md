@@ -12,4 +12,4 @@
 
 #ASSIGNMENT WEEK5:https://github.com/Bonaganisaicharan/Aiml2024/blob/main/2203a51550-ass5-aiml.pdf
 
-#ASSIGNMENT WEEK7:
+#ASSIGNMENT WEEK7:https://github.com/Bonaganisaicharan/Aiml2024/blob/main/2203a51550-aiml-ass-7.pdf
